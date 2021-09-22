@@ -1,5 +1,5 @@
 <h1>Monty</h1>
-<p><strong>Monty</strong>is an interpreter of Monty ByteCodes files, which is a scripting language just like Python.</p>
+<p><strong>Monty</strong> is an interpreter of Monty ByteCodes files, which is a scripting language just like Python.</p>
 <h2>Technologies</h2>
 <br>
 <br>
